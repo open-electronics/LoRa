@@ -39,9 +39,10 @@
 <p>Library archive content</p>
 <h4>Classes</h4>
 <ul>
-<li><a class='wikilink' href='SX1278.html'>SX1278</a></li>
+<li><a class='LoraNode' href='LoraNode.html'>SX1278</a></li>
 <li><a class='wikilink' href='LORA.html'>LORA</a></li>
 <li><a class='wikilink' href='REMOTEC.html'>REMOTEC</a></li>
+<li><a class='wikilink' href='SX1278.html'>SX1278</a></li>
 <li><a class='wikilink' href='sx1276.pdf'>Datasheet sx1278</a></li>
 </ul>
 <p class='vspace'></p><h4>Examples</h4>
