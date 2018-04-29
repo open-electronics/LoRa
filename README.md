@@ -7,3 +7,4 @@ With this Arduino library you can create several nodes in a network and communic
 Network managed by this library is not the LoRaWAN network but a simpler proprietary network.
 
 (see NodeLora-It.pdf or NodeLora-En for more details)
+(see LoRaHardware.pdf for more details about platforms)
