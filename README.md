@@ -8,3 +8,5 @@ Network managed by this library is not the LoRaWAN network but a simpler proprie
 
 (see NodeLora-It.pdf or NodeLora-En for more details)
 (see LoRaHardware.pdf for more details about platforms)
+
+NB Library is entirely included in LORA directory; sources, examples, help files and pdf doc. To use library just uncompress zip file and put LORA directory into ...../Arduino/libraries directory (as others Arduino libraries) 
