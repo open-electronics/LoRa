@@ -3,7 +3,7 @@ You can find and download library in sub-directory using <strong>&lt;<em>release
 
 Recent version is 3.0.
 
-With this Arduino library you can create several nodes in a network and communicate with kilometric range.
+With this Arduino library you can create several nodes in a network and communicate in a kilometric range.
 Network managed by this library is not the LoRaWAN network but a simpler proprietary network.
 
 (see NodeLora-It.pdf or NodeLora-En for more details)
